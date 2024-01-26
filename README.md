@@ -42,8 +42,8 @@ Commands
 ----
 `apt install git`
 
-`git clone https://github.com/t0mxplo1t/IG-OSINT.git`
+`git clone https://github.com/Kullayappas/Insta-gathering-/tree/main`
 
-`cd IG-OSINT`
+`cd Osnit`
 
 `python ig.py`
