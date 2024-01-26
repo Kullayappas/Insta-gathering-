@@ -10,7 +10,7 @@ def banner():
 \033[32m██\033[0m║\033[32m██\033[0m║   \033[32m██\033[0m║    \033[32m██\033[0m║   \033[32m██\033[0m║╚════\033[32m██\033[0m║\033[32m██\033[0m║\033[32m██\033[0m║╚\033[32m██\033[0m╗\033[32m██\033[0m║   \033[32m██\033[0m║
 \033[32m██\033[0m║╚\033[32m██████\033[0m╔╝    ╚\033[32m██████\033[0m╔╝\033[32m███████\033[0m║\033[32m██\033[0m║\033[32m██\033[0m║ ╚\033[32m████\033[0m║   \033[32m██\033[0m║
 \033[0m╚═╝ ╚═════╝      ╚═════╝ ╚══════╝╚═╝╚═╝  ╚═══╝   ╚═╝\033[0m
-\033[41m=[===> Mr. Tom | https://github.com/t0mxpl01t <===]=\n\033[0m""")
+\033[41m=[===> Mr. Tom | https://github.com/Kullayappas <===]=\n\033[0m""")
 banner()
 
 x = Instaloader()
@@ -22,7 +22,8 @@ try:
 		sys.exit()
 
 	f = instaloader.Profile.from_username(x.context,uname)
-
+        print("\033[32mCreated_by_kullayappaGaming
+	      
 	print("\033[32mUsername\033[0m :", f.username)
 	print("\033[32mID\033[0m :", f.userid)
 	print("\033[32mNama lengkap\033[0m :", f.full_name)
